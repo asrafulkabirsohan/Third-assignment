@@ -1,5 +1,5 @@
-.overlay {
-    filter: 50%;
+.bright {
+    filter: brightness(40%);
 }
 
 
@@ -8,13 +8,13 @@
     .carousel-caption h1 {
 
         padding-top: 2rem;
-        font-size: 16px;
+        font-size: 15px;
         font-weight: 900;
     }
 
     .carousel-caption p {
 
-        font-size: 12px;
+        font-size: 8px;
     }
 
     .carousel-caption button {
