@@ -21,4 +21,12 @@
 
         padding: auto;
     }
+
+    .card-title {
+        font-size: 15px;
+    }
+
+    .card-text {
+        font-size: 8px;
+    }
 }
